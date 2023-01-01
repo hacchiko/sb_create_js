@@ -1,0 +1,1 @@
+console.log('A Happy New Year 2023');
